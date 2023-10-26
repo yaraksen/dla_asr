@@ -36,3 +36,5 @@ pip install -r ./requirements.txt
       -wk "YOUR_WANDB_API_KEY" \
       -p "PATH TO THE LATEST CHECKPOINT FROM TRAIN 1"
    ```
+
+#### Results for LibriSpeech test-clean, test-other are available for [pruned](pruned_res.json) and [original](not_pruned_res.json) language models.

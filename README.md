@@ -5,6 +5,8 @@
 
 Download [model](https://disk.yandex.ru/d/KG1T9gH7GKDrxg) to the folder ```final_model```
 
+Create folder ```data```, path to the dataset should be ```data/datasets/librispeech```
+
 ```shell
 pip install -r ./requirements.txt
 ```
